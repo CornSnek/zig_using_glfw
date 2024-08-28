@@ -1,0 +1,4 @@
+.vscode/
+.zig-cache/
+src/compiled/
+zig-out/
