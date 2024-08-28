@@ -1,5 +1,5 @@
 # Using GLFW with Zig on Windows
-The purpose of this project is to an example on how to compile the GLFW and Glad libraries on Windows using build.zig for Zig.
+The purpose of this project is to give an example on how to compile the GLFW and Glad libraries on Windows using build.zig for Zig.
 The current Zig version this project used is 0.13.0.
 
 The `build.zig` file compiles glfw and glad into a static library, and compiles/copies the Translate C Zig files of the glfw and glad headers onto the `src/compiled/` directory.
